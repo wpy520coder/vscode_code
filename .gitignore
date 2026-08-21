@@ -105,6 +105,10 @@ temp/
 *.sqlite3
 *.db
 
+# ===== Git worktree 本地目录 =====
+/add_fruit/
+.worktrees/
+
 # ===== AI 工具本地配置 =====
 .claude/
 .opencode/
